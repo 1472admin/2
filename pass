@@ -1,0 +1,31 @@
+{
+  "data": {
+    "ciscosb-usergroup:users": {
+      "user": [
+        {
+          "name": "admin",
+          "password": "$1$oKR0ualn$9bAUk5iPUTf99NOOYb1.w1",
+          "group": "admin",
+          "password-changed-time": 1638435539
+        },
+        {
+          "name": "cisco",
+          "password": "$1$ONdCZsCi$rgEePszoaH02SncZIHN3.1",
+          "group": "admin",
+          "password-changed-time": 1604410022
+        },
+	{
+          "name": "admin123",
+          "password": "$1$ONdCZsCi$rgEePszoaH02SncZIHN3.1",
+          "group": "admin",
+          "password-changed-time": 1604410022
+        },
+        {
+          "name": "guest",
+          "password": "$1$5Q5b/7cc$xyslIcrVzIq0Jc75RfDRw1",
+          "group": "guest"
+        }
+      ]
+    }
+  }
+}
