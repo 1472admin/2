@@ -1,3 +1,4 @@
+#!/home/ecbuilds/int-rel/sa/9.1/bld24467.1/install/perl5/bin/perl -T
 use strict;
 
 print "Cache-Control: no-cache\n";
