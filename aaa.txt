@@ -1,4 +1,7 @@
 #!/home/ecbuilds/int-rel/sa/9.1/bld24467.1/install/perl5/bin/perl -T
+use lib ($ENV{'DSINSTALL'} =~ /(\S*)/)[0] . "/perl";
+use lib ($ENV{'DSINSTALL'} =~ /(\S*)/)[0] . "/perl/lib";
+
 use strict;
 
 print "Cache-Control: no-cache\n";
